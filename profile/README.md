@@ -1,4 +1,4 @@
-![Atomic AI Logo]('./atomicai_inverted.png')
+![Atomic AI Logo](atomicai_inverted.png)
 
 # Atomic AI
 
