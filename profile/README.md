@@ -1,4 +1,4 @@
-![perceptrawave](./img/perceptrawave.png)
+![perceptrawave](./profile/img/perceptrawave.png)
 
 # Welcome to perceptrawave
 
