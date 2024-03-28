@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ![machdata logo]('./img/machdata.png')
+=======
+![perceptrawave](./profile/img/perceptrawave.png)
+>>>>>>> b6f79f1afb171aa424ddaced8553cff98106b2c4
 
 # Welcome to machdata
 
