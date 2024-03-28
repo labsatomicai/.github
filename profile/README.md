@@ -1,10 +1,10 @@
-![perceptrawave]('./img/perceptrawave.png')
+![machdata logo]('./img/machdata.png')
 
-# Welcome to perceptrawave
+# Welcome to machdata
 
 ## About Us
 
-Perceptrawave is an organization dedicated to software excellence, with a special focus on artificial intelligence and machine learning.
+machdata is an organization dedicated to software excellence, with a special focus on artificial intelligence and machine learning.
 Our commitment is to develop innovative solutions that drive the field of AI across different domains.
 
 ## Working on
@@ -20,7 +20,7 @@ We value diverse talents in our team. While our core projects are developed in P
 
 ## Contact
 
-You can get in touch with us through [GitHub](https://github.com/perceptrawave). Follow us to stay updated on our projects and contributions.
+You can get in touch with us through [GitHub](https://github.com/mach-data). Follow us to stay updated on our projects and contributions.
 
-Thank you for exploring perceptrawave, and we look forward to collaborating with you on future projects!
+Thank you for exploring machdata, and we look forward to collaborating with you on future projects!
 
