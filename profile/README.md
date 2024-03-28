@@ -1,4 +1,4 @@
-![machdata logo]('./img/machdata.png')
+![machdata logo]('profile/img/machdata.png')
 
 # Welcome to machdata
 
